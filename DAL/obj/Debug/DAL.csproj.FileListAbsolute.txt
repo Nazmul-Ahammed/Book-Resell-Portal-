@@ -1,0 +1,50 @@
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\bin\Debug\DAL.dll
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\obj\Debug\DAL.dll
+C:\Users\ASUS\source\repos\UsedBookStore\DAL\obj\Debug\DAL.pdb
+D:\Project Code\DAL\bin\Debug\DAL.dll.config
+D:\Project Code\DAL\bin\Debug\DAL.dll
+D:\Project Code\DAL\bin\Debug\DAL.pdb
+D:\Project Code\DAL\bin\Debug\EntityFramework.dll
+D:\Project Code\DAL\bin\Debug\EntityFramework.xml
+D:\Project Code\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project Code\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project Code\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project Code\DAL\obj\Debug\DAL.dll
+D:\Project Code\DAL\obj\Debug\DAL.pdb
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\bin\Debug\DAL.dll
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\obj\Debug\DAL.dll
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\DAL\obj\Debug\DAL.pdb
+E:\Project Code\DAL\bin\Debug\DAL.dll.config
+E:\Project Code\DAL\bin\Debug\DAL.dll
+E:\Project Code\DAL\bin\Debug\DAL.pdb
+E:\Project Code\DAL\bin\Debug\EntityFramework.dll
+E:\Project Code\DAL\bin\Debug\EntityFramework.xml
+E:\Project Code\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Project Code\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Project Code\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Project Code\DAL\obj\Debug\DAL.dll
+E:\Project Code\DAL\obj\Debug\DAL.pdb
+E:\Project\Project Code\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Project\Project Code\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Project\Project Code\DAL\obj\Debug\DAL.dll
+E:\Project\Project Code\DAL\obj\Debug\DAL.pdb
+E:\Project\Project Code\DAL\bin\Debug\DAL.dll.config
+E:\Project\Project Code\DAL\bin\Debug\DAL.dll
+E:\Project\Project Code\DAL\bin\Debug\DAL.pdb
+E:\Project\Project Code\DAL\bin\Debug\EntityFramework.dll
+E:\Project\Project Code\DAL\bin\Debug\EntityFramework.xml
+E:\Project\Project Code\DAL\obj\Debug\DAL.csproj.CopyComplete

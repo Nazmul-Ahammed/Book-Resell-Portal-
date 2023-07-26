@@ -1,0 +1,70 @@
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\bin\Debug\BLL.dll
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\bin\Debug\BLL.pdb
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\bin\Debug\AutoMapper.dll
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\bin\Debug\DAL.dll
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\bin\Debug\DAL.pdb
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\bin\Debug\AutoMapper.xml
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\obj\Debug\BLL.dll
+C:\Users\ASUS\source\repos\UsedBookStore\BLL\obj\Debug\BLL.pdb
+D:\Project Code\BLL\bin\Debug\BLL.dll
+D:\Project Code\BLL\bin\Debug\BLL.pdb
+D:\Project Code\BLL\bin\Debug\AutoMapper.dll
+D:\Project Code\BLL\bin\Debug\DAL.dll
+D:\Project Code\BLL\bin\Debug\EntityFramework.dll
+D:\Project Code\BLL\bin\Debug\DAL.pdb
+D:\Project Code\BLL\bin\Debug\DAL.dll.config
+D:\Project Code\BLL\bin\Debug\AutoMapper.xml
+D:\Project Code\BLL\bin\Debug\EntityFramework.xml
+D:\Project Code\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Project Code\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project Code\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Project Code\BLL\obj\Debug\BLL.dll
+D:\Project Code\BLL\obj\Debug\BLL.pdb
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\bin\Debug\BLL.dll
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\bin\Debug\BLL.pdb
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\bin\Debug\AutoMapper.dll
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\bin\Debug\DAL.dll
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\bin\Debug\DAL.pdb
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\bin\Debug\AutoMapper.xml
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\obj\Debug\BLL.dll
+C:\Users\ASUS\source\repos\BookStore\BookResellPortal\BLL\obj\Debug\BLL.pdb
+E:\Project Code\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Project Code\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Project Code\BLL\bin\Debug\BLL.dll
+E:\Project Code\BLL\bin\Debug\BLL.pdb
+E:\Project Code\BLL\bin\Debug\AutoMapper.dll
+E:\Project Code\BLL\bin\Debug\DAL.dll
+E:\Project Code\BLL\bin\Debug\EntityFramework.dll
+E:\Project Code\BLL\bin\Debug\DAL.pdb
+E:\Project Code\BLL\bin\Debug\DAL.dll.config
+E:\Project Code\BLL\bin\Debug\AutoMapper.xml
+E:\Project Code\BLL\bin\Debug\EntityFramework.xml
+E:\Project Code\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Project Code\BLL\obj\Debug\BLL.dll
+E:\Project Code\BLL\obj\Debug\BLL.pdb
+E:\Project\Project Code\BLL\bin\Debug\BLL.dll
+E:\Project\Project Code\BLL\bin\Debug\BLL.pdb
+E:\Project\Project Code\BLL\bin\Debug\AutoMapper.dll
+E:\Project\Project Code\BLL\bin\Debug\DAL.dll
+E:\Project\Project Code\BLL\bin\Debug\EntityFramework.dll
+E:\Project\Project Code\BLL\bin\Debug\DAL.pdb
+E:\Project\Project Code\BLL\bin\Debug\DAL.dll.config
+E:\Project\Project Code\BLL\bin\Debug\AutoMapper.xml
+E:\Project\Project Code\BLL\bin\Debug\EntityFramework.xml
+E:\Project\Project Code\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Project\Project Code\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Project\Project Code\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Project\Project Code\BLL\obj\Debug\BLL.dll
+E:\Project\Project Code\BLL\obj\Debug\BLL.pdb
